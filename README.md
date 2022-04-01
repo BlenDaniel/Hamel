@@ -1,7 +1,9 @@
 # Hamel
 <br>
-
-### Backend in Firebase
+Hamel is a mobile app built for Greentech Hackathon competition. Screenshots are provided for the demonisation of the app.
+This is a mobile app build using Flutter as frontend and firebase as a backend.
+<br>
+Architecture - Stacked
 
 [![S1](https://i.postimg.cc/13h4JjKg/Screenshot-20210726-004836.jpg)]
 [![S2](https://i.postimg.cc/gc7x6JXH/Screenshot-20210726-004847.jpg)]
