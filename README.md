@@ -1,6 +1,5 @@
 # Hamel
-Hamel is a mobile app built for Greentech Hackathon competition. Screenshots are provided for the demonisation of the app.
-This is a mobile app build using Flutter as frontend and firebase as a backend.
+Hamel is a mobile app built for Greentech Hackathon competition. It is built using Flutter and Firebase as a backend. Screenshots are provided for the demonstration of the app. This is a mobile app built using Flutter as frontend and firebase as a backend.
 <br>
 ## Architecture 
 Stacked
